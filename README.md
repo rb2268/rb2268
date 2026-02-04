@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riley</h1>
 <h3 align="center">An undergraduate majoring in Electrical Engineering at Tufts University</h3>
 
-- 🌱 I’m currently learning **Digital Logic**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **rbj2268@gmail.com**
 

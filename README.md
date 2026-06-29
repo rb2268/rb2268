@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riley</h1>
 <h3 align="center">An undergraduate majoring in Electrical Engineering at Tufts University</h3>
 
-- 🌱 I’m currently learning **Embedded Systems**
+- ⚡I’m currently doing **Research in Electric Propulsion**
 
-- 📫 How to reach me **rbj2268@gmail.com**
+- 📫 How to reach me **riley.becker@tufts.edu**
 
 
 </p>
